@@ -29,18 +29,18 @@ search for a cure
 
 ### Phase 1
 
-- Identify a common known antibody/antigen pair such that the antibody destroys the antigen
-- define the structure and characteristics of the antibody
-- define the structure and characteristics of the antigen
-- define the structure and characteristics of the cell in the bone marrow that produces the antibody
-- define a target antigen to destroy
-- simulate the antibody
-- simulate the antigen
-- simulate the modification and creation of the antibody
-- observe the effect of the mutant antibody on the target antigen
-- repeat simulation of the modification, creation, and effect of the antibody until the desired structure of the antibody is identified
-- define the structure of the bone marrow cells required to create the mutated antibody
-- define the steps needed to modify the antibody using CRISPR
+- [ ] Identify a common known antibody/antigen pair such that the antibody destroys the antigen
+- [ ] define the structure and characteristics of the antibody
+- [ ] define the structure and characteristics of the antigen
+- [ ] define the structure and characteristics of the cell in the bone marrow that produces the antibody
+- [ ] define a target antigen to destroy
+- [ ] simulate the antibody
+- [ ] simulate the antigen
+- [ ] simulate the modification and creation of the antibody
+- [ ] observe the effect of the mutant antibody on the target antigen
+- [ ] repeat simulation of the modification, creation, and effect of the antibody until the desired structure of the antibody is identified
+- [ ] define the structure of the bone marrow cells required to create the mutated antibody
+- [ ] define the steps needed to modify the antibody using CRISPR
 
 ### Phase 2
 
