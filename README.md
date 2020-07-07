@@ -82,19 +82,15 @@ https://www.nih.gov/news-events/nih-research-matters/potent-antibodies-found-peo
 
 ## Resources
 
-### Data
+### [Data](https://www.rcsb.org/)
 
-https://www.rcsb.org/
+### [Simulator](https://www.rxdock.org/documentation/devel/html/getting-started-guide/quick-and-dirty-installation.html#quick-and-dirty-installation)
 
-### Simulator
+### [NIH White Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566401/#B31-ijms-20-02568)
 
-https://www.rxdock.org/documentation/devel/html/getting-started-guide/quick-and-dirty-installation.html#quick-and-dirty-installation
 
-### NIH White Papers
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566401/#B31-ijms-20-02568
+### [CRISPR](https://www.the-odin.com/)
 
-### CRISPR
 
-https://www.the-odin.com/
     
