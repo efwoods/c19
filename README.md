@@ -66,6 +66,9 @@ https://www.rxdock.org/documentation/devel/html/getting-started-guide/quick-and-
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566401/#B31-ijms-20-02568
 
+### CRISPR
+
+https://www.the-odin.com/
 
 
  
