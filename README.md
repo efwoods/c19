@@ -8,8 +8,7 @@ I want to document and share this experience.
 
 ## Why? 
 Cas9 is known to be used to cut and paste DNA. HEK 239 human cells are widely available (from every individual) and will reproduce quickly. S309 has been identified to be a functional anitbody to neutralize the COVID-19 virus [(see NIH paper)](
-https://www.nih.gov/news-events/nih-research-matters/potent-antibodies-found-people-recovered-covid-19).  By documenting and sharing the process of self-culturing and modifying HEK239 cells into S309 antibodies, an "everyman's vaccine" can be produced in home by any consenting adult for their own personal one-month immunity to the COVID-19 pandemic. The anticipated results are herd immunity, re-established trust in communities, and a reboot of economies potentially world-wide. This is how to protect our loved ones and get 'back to normal'.
-
+https://www.nih.gov/news-events/nih-research-matters/potent-antibodies-found-people-recovered-covid-19).  By documenting and sharing the process of self-culturing and modifying HEK239 cells into S309 antibodies, an "everyman's vaccine" can be produced in home by any consenting adult for their own personal one-month immunity to the COVID-19 pandemic. The anticipated results are herd immunity, re-established trust in communities, and a reboot of economies potentially world-wide. This is how to protect loved ones, healthcare workers, and communities. This is the way 'back to normal'. This is the way.
 
 ## Key Resources
 
