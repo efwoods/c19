@@ -13,9 +13,7 @@ https://www.nih.gov/news-events/nih-research-matters/potent-antibodies-found-peo
 
 ## Key Resources
 
-### Procedure
-
-https://www.the-odin.com/human-cells/
+### [Procedure](https://www.the-odin.com/human-cells/)
 
 ### Proteins
 
@@ -23,9 +21,8 @@ https://www.the-odin.com/human-cells/
 
 #### HEK239
 
-#### S309 Antibody
-From Protein Data Bank
-https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22parameters%22%3A%7B%22attribute%22%3A%22rcsb_polymer_entity.pdbx_description%22%2C%22operator%22%3A%22contains_phrase%22%2C%22value%22%3A%22S309%20neutralizing%20antibody%20heavy%20chain%22%7D%2C%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22node_id%22%3A0%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22pager%22%3A%7B%22start%22%3A0%2C%22rows%22%3A100%7D%2C%22scoring_strategy%22%3A%22combined%22%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%7D%2C%22request_info%22%3A%7B%22src%22%3A%22ui%22%2C%22query_id%22%3A%22814c1b9bded3751947ef00f8699d2ede%22%7D%7D
+#### [S309 Antibody](https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22parameters%22%3A%7B%22attribute%22%3A%22rcsb_polymer_entity.pdbx_description%22%2C%22operator%22%3A%22contains_phrase%22%2C%22value%22%3A%22S309%20neutralizing%20antibody%20heavy%20chain%22%7D%2C%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22node_id%22%3A0%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22pager%22%3A%7B%22start%22%3A0%2C%22rows%22%3A100%7D%2C%22scoring_strategy%22%3A%22combined%22%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%7D%2C%22request_info%22%3A%7B%22src%22%3A%22ui%22%2C%22query_id%22%3A%22814c1b9bded3751947ef00f8699d2ede%22%7D%7D)
+
 
 ### Cost Analysis
  
