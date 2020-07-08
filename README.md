@@ -89,7 +89,7 @@ https://www.nih.gov/news-events/nih-research-matters/potent-antibodies-found-peo
 
 ### [CRISPR](https://www.the-odin.com/)
 
-### [COVID-19 Map](https://www.twitch.tv/killars)
+### [Coronavirus Live Stats Information and Graphs](https://www.twitch.tv/killars)
 
 
     
