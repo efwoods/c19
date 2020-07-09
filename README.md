@@ -14,6 +14,11 @@ https://www.nih.gov/news-events/nih-research-matters/potent-antibodies-found-peo
 
 ### [Procedure](https://www.the-odin.com/human-cells/)
 
+- [DNA from whitepaper (David Ishee)](https://www.youtube.com/watch?v=kg6TmcjUaXs)
+
+#### [Growing and Storing HEK239](http://www.genome.ucsc.edu/ENCODE/protocols/cell/human/HEK293b_Snyder_protocol.pdf)
+
+
 ### Proteins
 
  - CaS9
